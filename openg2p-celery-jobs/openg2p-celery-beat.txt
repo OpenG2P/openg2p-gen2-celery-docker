@@ -1,4 +1,4 @@
 # openg2p-celery-beat.txt
-#!tahzeer/openg2p-celery-jobs-beat-producers:develop
+#!openg2p/openg2p-celery-jobs-beat-producers:develop
 #!openg2p-celery-jobs/Dockerfile.producers
 #!.
